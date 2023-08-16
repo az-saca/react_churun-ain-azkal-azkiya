@@ -1,4 +1,4 @@
-# IntroductionFE
+# Introduction FE
 
 1. Menjadi seorang front-end developer harus memeahami beberapa hal, seperti internet, bahasa pemrograman front-end, VCS, web security, dan package manager.
 2. Bahasa pemrograman yang harus dipahami untuk menjadi seorang front-end developer adalah HTML, CSS, dan JavaScript.
