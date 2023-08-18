@@ -12,7 +12,9 @@
 # Soal Prioritas 2
 
 1. Buatlah branch baru pada github yang kalian buat
+   
    ![](new-branch.png)
 
-2. Lakukan Pull Request pada branch tersebut sehingga akan menambah hal baru pada branch
+3. Lakukan Pull Request pada branch tersebut sehingga akan menambah hal baru pada branch
+   
    ![](PR.png)
