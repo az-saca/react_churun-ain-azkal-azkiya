@@ -4,7 +4,7 @@
    !(nama-repo.png)
 
 2. Buatlah folder yang berurutan dan diberi nama sesuai dengan nama soal yang kalian kerjakan.
-   !(folders.)
+   !(folders.png)
 
 3. Pada setiap folder akan berisikan sub folder lagi
-   !
+   !(practice-n-ss.png)
