@@ -9,3 +9,5 @@
 3. Sedangkan, kekurangannya ialah penggunaan Figma hanya bisa dilakukan secara online dikarenakan berbasis website.
 
 [Link-Prototyping](https://www.figma.com/proto/fdd4UVIUBjDtXWBkU5NQm7/porto-web-SIB?type=design&node-id=3-3&t=ge6FzcvDw0REUfFh-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A3&show-proto-sidebar=1&mode=design)
+
+[Link-Design](https://www.figma.com/file/fdd4UVIUBjDtXWBkU5NQm7/porto-web-SIB?type=design&node-id=24%3A141&mode=design&t=27vEETTvHAk2emLT-1)
