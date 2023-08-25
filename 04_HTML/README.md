@@ -12,7 +12,7 @@
 
 3. Pendefinisian bahasa HTML menggunakan tag, beberapa tag tersebut seperti <!DOCTYPE html>, <html>, <head>, <body>.
 
-source= Materi PPT bu Alterra Academy
+source= Materi PPT by Alterra Academy
 
 # Soal Prioritas 1
 
