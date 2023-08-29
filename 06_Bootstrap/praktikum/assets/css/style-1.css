@@ -1,0 +1,28 @@
+a {
+  color: blue !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: black !important;
+}
+#navbarNav ul li a {
+  color: blue !important;
+  font-family: "Jost";
+}
+img {
+  width: 71.529px;
+  height: 57px;
+}
+
+.text {
+  font-family: "Roboto", sans-serif;
+}
+
+#title {
+  font-size: 20px;
+  font-weight: 600;
+}
+#subtitle {
+  font-size: 20px;
+}
